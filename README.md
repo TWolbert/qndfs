@@ -3,7 +3,9 @@
 A quick and dirty file server for personal projects, feel free to host this yourself or whatever but I can't guarantee anything.
 
 ## How to use
-Good luck setting it up yourself you're a developer.
+How to start:
+- `bun start`
+- Profit.
 
 `0.0.0.0` will be used as a stand-in for the hostname of your server.
 
